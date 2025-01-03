@@ -6,3 +6,6 @@ node_modules
 
 db.sqlite.DS_Store
 characters/.DS_Store
+.DS_Store
+data/
+marley_bot/
